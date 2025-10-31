@@ -5,6 +5,7 @@ It showcases a product with details like image, price, and description in an att
 Built using HTML, CSS, and JavaScript, it focuses on providing a smooth user experience and modern design.
 The page includes interactive features like the “Add to Cart” alert and clean visual presentation inspired by IBM’s UI style.
 
+
 **✨ Features:**
 
 Responsive layout for desktop and mobile screens
@@ -19,6 +20,7 @@ Clean typography and color scheme using IBM-blue theme
 
 Shadow, hover, and border effects for better visual appeal
 
+
 **🧠 Technologies Used:**
 
 **HTML5:** For structuring the content and layout of the page
@@ -28,6 +30,7 @@ Shadow, hover, and border effects for better visual appeal
 **JavaScript (ES6):** For interactivity and event-based user actions
 
 **VS Code & GitHub:** For development and version control
+
 
 **⚙️ Challenges Faced:**
 
