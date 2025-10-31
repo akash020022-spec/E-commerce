@@ -21,13 +21,13 @@ Shadow, hover, and border effects for better visual appeal
 
 **🧠 Technologies Used:**
 
-HTML5: For structuring the content and layout of the page
+**HTML5:** For structuring the content and layout of the page
 
-CSS3: For styling, background color, shadows, and responsiveness
+**CSS3:** For styling, background color, shadows, and responsiveness
 
-JavaScript (ES6): For interactivity and event-based user actions
+**JavaScript (ES6):** For interactivity and event-based user actions
 
-VS Code & GitHub: For development and version control
+**VS Code & GitHub:** For development and version control
 
 **⚙️ Challenges Faced:**
 
